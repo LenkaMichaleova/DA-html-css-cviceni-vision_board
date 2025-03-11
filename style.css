@@ -2,6 +2,7 @@ body {
     background-color: lightcyan;
     text-align: center;
     font-family: sans-serif;
+    margin: 2% 10%;
   }
 
 ul, ol {
@@ -10,7 +11,7 @@ ul, ol {
   }
 
 .uvod img {
-    width: 500px;
+    width: 450px;
     height: auto;
     border-radius: 5%;
 }
@@ -29,4 +30,8 @@ a {
 a:hover {
   background-color: pink;
   color: white;
+}
+
+footer {
+  margin-top: 3%;
 }
